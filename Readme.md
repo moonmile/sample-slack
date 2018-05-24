@@ -3,6 +3,7 @@
 シンプルに Slack の通知（Incoming WebHooks) だけ使ってみるサンプル
 
 - [C# で Slack に投稿する](http://www.moonmile.net/blog/archives/9117)
+- [PHP で Slack に投稿する](http://www.moonmile.net/blog/archives/9160)
 
 # 内容
 
